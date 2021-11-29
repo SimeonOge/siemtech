@@ -105,7 +105,7 @@ function Home2() {
               
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/mwlite/in/Simeon-Oge/"
+                  href="https://www.linkedin.com/in/simeon-oge-a587a019a"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -115,7 +115,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/SimeonOge/"
+                  href="https://www.linkedin.com/in/simeon-oge-a587a019a"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
